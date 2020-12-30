@@ -3,9 +3,47 @@
 html {
     background-color: #fbc31aff;
     font-family: 'Bitter', serif;
+    color: #2e75b6ff;
 }
 
 .textdiv {
     background-color:  white;
     margin: 0 auto; 
+    padding: 8px;
+    margin-bottom: 64px;
+}
+
+.intro {
+    padding-top: 8px !important; 
+    font-weight: 500;
+    font-size: 1em;
+}
+p {
+    font-size: 0.8; 
+    color:black;
+    color: #2e75b6ff;
+}
+
+h2 {
+    font-weight: 800;
+    color: white;
+    text-align: center; 
+}
+
+h3 {
+    font-weight: 600; 
+    color: #2e75b6ff;
+    font-size: 1.1em; 
+}
+
+.foto {
+    text-align: center; 
+    padding-top: 16px; 
+}
+.page-footer {
+    background-color: #2e75b6ff;
+}
+
+.collection-item {
+    color: #2e75b6ff !important;
 }
