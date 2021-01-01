@@ -16,17 +16,24 @@ html {
 .intro {
     padding-top: 8px !important; 
     font-weight: 500;
-    font-size: 1em;
+    font-size: 0.95em;
+    text-align: center;
 }
 p {
-    font-size: 0.8; 
+    font-size: 0.85em; 
+    color:black;
+    color: #2e75b6ff;
+}
+
+a {
+    font-size: 0.85em; 
     color:black;
     color: #2e75b6ff;
 }
 
 h2 {
     font-weight: 800;
-    color: white;
+    color: #2e75b6ff;
     text-align: center; 
 }
 
